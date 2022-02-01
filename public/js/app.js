@@ -1,12 +1,3 @@
-console.log('Hello world!')
-
-// fetch('http://puzzle.mead.io/puzzle').then((res) => {
-//     res.json().then((data) =>  {
-//         console.log(data)
-//     })
-// })
-
-
 const weatherData = document.querySelector('form')
 const search = document.querySelector('input')
 const message1 = document.querySelector('#message1')
